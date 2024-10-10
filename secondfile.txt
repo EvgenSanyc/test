@@ -1,1 +1,1 @@
-second line
+second line Проверка конфликта в одной строке
